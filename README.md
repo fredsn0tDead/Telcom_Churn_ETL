@@ -13,7 +13,7 @@ The pipeline follows a modern data stack approach:
 4. **Analytics**: A **Streamlit** dashboard visualizes churn rates and patterns.
 5. **Insights**: Preliminary churn analysis based on tenure, contract type, and monthly charges.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](assets/dashboard.png)
 
 ## 🏗️ Tech Stack
 * **Orchestrator**: Apache Airflow
